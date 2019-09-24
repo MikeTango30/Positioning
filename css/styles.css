@@ -1,0 +1,29 @@
+section div {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 200px;
+	width: 200px;
+	height: 200px;
+	text-transform: uppercase;
+}
+
+section div:nth-child(1) {
+	background-color: #a434eb;
+}
+
+section div:nth-child(2) {
+	background-color: #ebde2f;
+}
+
+section div:nth-child(3) {
+	background-color: #2f57de;
+}
+
+section div:nth-child(4) {
+	background-color: #de791b;
+}
+
+section div:nth-child(5) {
+	background-color: #db127d;
+}
